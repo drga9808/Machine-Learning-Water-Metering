@@ -1,0 +1,11 @@
+Yorkshire Water records flows of water every 15minutes to each of the Distribution Management Areas (DMAs) across the region. 
+This dataset contains the flows in litres/second for each of the 2,000+ DMAs that contain domestic properties.
+
+A breakdown of properties by Postal Sector is given for each of the DMAs in the extract.
+
+A list of each Mains Repair with completion date is shown for all DMAs in the extract.
+
+Please note
+DMAs with fewer than 6 domestic or 6 commerical properties have been excluded for data privacy purposes
+Postal Sectors with fewer than 20 domestic or 6 commercial properties have been excluded for data privacy purposes
+The 'Flow Validity Code' is either "V" for valid, "I" for invalid or "M" for missing
